@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ejemy]([https://github.com/Ejemy](https://github.com/Ejemy?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/Ejemy]([https://github.com/Ejemy?tab=repositories]))
 
 - 💬 Ask me about **Node.js, Express, Back-end**
 
