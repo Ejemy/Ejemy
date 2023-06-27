@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eric.iwan@proton.me**
 
-- 📄 Know about my experiences [https://ejemy.github.io/portfolio/](https://ejemy.github.io/portfolio/)
+- 📄 Check out my portfolio webpage [https://ejemy.github.io/portfolio/](https://ejemy.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
