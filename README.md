@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ejemy](https://github.com/Ejemy)
+- 👨‍💻 All of my projects are available at [https://github.com/Ejemy]([https://github.com/Ejemy](https://github.com/Ejemy?tab=repositories))
 
 - 💬 Ask me about **Node.js, Express, Back-end**
 
 - 📫 How to reach me **eric.iwan@proton.me**
 
-- 📄 Know about my experiences [https://ejemy.github.io/portfolio/](https://ejemy.github.io/portfolio/)
+- 📄 Check out my portfolio page [https://ejemy.github.io/portfolio/](https://ejemy.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
