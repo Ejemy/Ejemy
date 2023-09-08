@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejemy&label=Profile%20views&color=0e75b6&style=flat" alt="ejemy" /> </p>
 
-- 🔭 I’m currently working on [WaniKani Statistics](https://github.com/Ejemy/WKStats)
+- 🔭 I’m currently working on a **personal budgeting application in React**.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and React**
 
 - 💬 Ask me about **Node.js, Express, Back-end**
 
