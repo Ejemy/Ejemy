@@ -15,7 +15,6 @@
 
 - 👨‍💻 Here are my codepens (These are all projects from Freecodecamp) [check them out!](https://codepen.io/Erek/collections/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
