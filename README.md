@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on a **personal budgeting application in React**.
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Node.js, Express, Back-end**
+- 💬 Ask me about **Node.js, React, Back-end**
 
 - 📫 How to reach me **eric.iwan@proton.me**
 
